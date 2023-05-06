@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-KOoR8a3MRU)
-- Live Site URL: [Add live site URL here](https://loop-project.netlify.app/)
+- Solution URL: [Front end mentor solution](https://www.frontendmentor.io/solutions/responsive-landing-page-KOoR8a3MRU)
+- Live Site URL: [Live site url](https://loop-project.netlify.app/)
 
 ## My process
 
