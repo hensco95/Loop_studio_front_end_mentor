@@ -62,7 +62,7 @@ I'm going to be focusing on building more projects to master my skills
 ## Author
 
 - Website - [Henry Seigbein](https://linktr.ee/hensco95)
-- Frontend Mentor - [hensc095](https://www.frontendmentor.io/profile/hensco95)
+- Frontend Mentor - [hensco95](https://www.frontendmentor.io/profile/hensco95)
 - Twitter - [ekiye_s](https://www.twitter.com/ekiye_s)
 
 
